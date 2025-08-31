@@ -1,4 +1,4 @@
-# Modelos deAprendizaje Automático Supervisado
+# Modelos de Aprendizaje Automático Supervisado
 
 Este repositorio contiene varios proyectos de aprendizaje automático, incluyendo:
 
