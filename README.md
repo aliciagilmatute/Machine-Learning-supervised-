@@ -1,18 +1,28 @@
-Este repositorio contiene:
+# Modelos deAprendizaje Automático Supervisado
 
-Proyecto de Árboles Aleatorios y Bosques de Decisión:
+Este repositorio contiene varios proyectos de aprendizaje automático, incluyendo:
 
-- Base de datos: "drug200.csv"
-- Notebook del proyecto: "ARBOLES_Y_BOSQUES_aleatorios.ipynb"
+## 1. Bosques Aleatorios y Árboles de Decisión
 
-Proyecto de K-Vecinos Más Próximos (KNN):
+*   **Descripción:** Este proyecto explora el uso de Bosques Aleatorios y Árboles de Decisión para una tarea de clasificación.
+*   **Conjunto de datos:** `drug200.csv`
+*   **Cuaderno:** `Árboles y bosques/ARBOLES_Y_BOSQUES_aleatorios.ipynb`
 
-- Base de datos: "r_logistica.csv"
-- Documento explicativo: "k-vecinos.docx"
-- Notebook del proyecto: "AliciaGilMatute_KNN.ipynb"
+## 2. K-Vecinos Más Cercanos (KNN)
 
-Proyecto de Máquinas Vector Soporte (MSV):
+*   **Descripción:** Este proyecto implementa el algoritmo de K-Vecinos Más Cercanos para la clasificación.
+*   **Conjunto de datos:** `KNN Vecinos/r_logistica.csv`
+*   **Documentación:** `KNN Vecinos/k-vecinos.docx`
+*   **Cuaderno:** `KNN Vecinos/AliciaGilMatute_KNN.ipynb`
 
-- Base de Datos: "US.Colleges.dat"
-- Documento explicativo: "MaquinasVectorSoporte.docx"
-- Notebook del proyecto: AliciaGilMatute_MSV.ipynb"
+## 3. Máquinas de Vectores de Soporte (SVM)
+
+*   **Descripción:** Este proyecto demuestra el uso de Máquinas de Vectores de Soporte para la clasificación.
+*   **Conjunto de datos:** `Maquinas Vector Soporte/U.S. Colleges.dat`
+*   **Documentación:** `Maquinas Vector Soporte/MaquinasVectorSoporte.docx`
+*   **Cuaderno:** `Maquinas Vector Soporte/AliciaGilMatute_MSV.ipynb`
+
+---
+
+🌍 Este README está disponible en varios idiomas:
+🔗 [readme.maxpfeffer.de](https://readme.maxpfeffer.de/readme/b26cf16f4f6ebfcc411a2b0c9d1d4cd24d654bf1277b4b70c8cf1743d837a3599e6e5bede6177ba6040a3b15c7b72f1041cd9ecde066fa6de9e203cbf9ccc75b)
